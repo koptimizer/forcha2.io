@@ -10,8 +10,8 @@ permalink:        pretty
 title:            '고광종'
 tagline:          'GwangJong Ko'
 description:      '설명을 써주세여'
-url:              http://https://koptimizer.github.io/forcha2.io/
-baseurl:          http://https://koptimizer.github.io/forcha2.io/
+url:              https://koptimizer.github.io
+baseurl:          https://koptimizer.github.io/forcha2.io/
 
 author:
   name:           'Mark Otto'
